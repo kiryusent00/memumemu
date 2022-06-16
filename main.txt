@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 
 #EXTINF:-1 id="111" tvg-name="TV3" tvg-logo="https://cdn.pixabay.com/photo/2016/06/15/15/02/info-1459077_640.png" group-title="INFO",Avenged Sevenfold - So Far Away
-https://dl.dropboxusercontent.com/s/eezf9t1dffukbl3/Avenged-Sevenfold-So-Far-Away-%28Official-Music-Video%29.mp4?dl=0
+https://dl.dropboxusercontent.com/s/s8y5zyp0ihbtc2j/Avenged-Sevenfold-So-Far-Away.mp4?dl=0
 
 --FREE TV--
 
