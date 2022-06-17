@@ -16,6 +16,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="RTM",RTM TV3
+https://Astro.kpsboyserver.com/tv3.m3u8
 https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="RTM",RTM TV6
@@ -130,7 +131,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1 tvg-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="INDIA",Astro Vinmeen HD/(DU)
-https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwkpp5SzS3ThYrp-gIKfnkRzw=QITs/dash-wv/jitp-linearwm/2105/default_ott.mpd
+https://Astro.kpsboyserver.com/AstroVinmeen.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=86926949493ad3767442c338b3140810&key=cbccf2086e836ad13b783f6166f888fd
@@ -210,7 +211,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_AEC.png" group-title="CHINESE",Astro AEC HD/(DU)
-https://linears-playback.astro.com.my/vsgN/41xB9XItVsSi_aY-Km766BzWUUzSoQ81c-Bi1fpucJGzY=PPUM/dash-wv/jitp-linearwm/2400/default_ott.mpd
+https://Astro.kpsboyserver.com/AstroAec.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
