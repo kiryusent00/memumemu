@@ -52,8 +52,8 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="BAHASA MALAYSIA",Astro Ria HD/(DU)
+#http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFdL4-AoAZejuCZf14sOKVLI=qgfe/dash-wv/jitp-linearwm/1004/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroRia.mpd
-https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bttnYNSDs4WMWkSiC_K12L8=_zwl/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -71,17 +71,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="107" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Astro_Warna.jpg" group-title="BAHASA MALAYSIA",Astro Warna HD/(DU)
+http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_Gmg9FUYT9vdEh8F7fKqNzM=Je_0/dash-wv/jitp-linearwm/2402/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroWarna.mpd
-https://linears-playback.astro.com.my/vsg/41LI8MaD-ghPRvY4kcmHUtcUJECuTgPU16Sbk3pQACJko=SMGB/dash-wv/jitp-linearwm/2402/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9CGKADgadNCIlRhfmAIXFBA=lMsC/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra HD/(DU)
+http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_LCLDl-VkIOod8phuINrgyA=FXWr/dash-wv/jitp-linearwm/2700/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroCitra.mpd
-https://linears-playback.astro.com.my/vsg/41LI8MaD-ghPRvY4kcmHUtcWfLnH1lnpar5xy-6XQIqls=Meiy/dash-wv/jitp-linearwm/2700/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9PwvuLdEESKN4lE68ZAfUmA=UJNw/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
@@ -131,6 +130,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1 tvg-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="INDIA",Astro Vinmeen HD/(DU)
+#http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2105/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroVinmeen.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -211,6 +211,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_AEC.png" group-title="CHINESE",Astro AEC HD/(DU)
+#http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2400/default_primary.mpd
+https://live.astradamy.com/astro/aec/index.mpd
 https://Astro.kpsboyserver.com/AstroAec.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -690,27 +692,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-id="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT",Astro SuperSport 1 HD/(DU)
+http://linears-playback.astro.com.my/vsg/41jg-RPkcMRgpYtzgZyAAWVnxJIerLmA7Ch6Xi2KqiAF8=s5Z5/dash-wv/jitp-linearwm/601/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroSP1.mpd
-https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_cqpzJ8CH2lJy6G_LWMN27k=BPBf/dash-wv/jitp-linearwm/601/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_XcXYuESmzzcAeZsc3RzLL0=R6Km/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="SPORT",Astro SuperSport 2 HD/(DU)
+http://linears-playback.astro.com.my/vsg/41MTFlfMN9AgFf2RL57qnxYad2AKlv3l79q_ej089lV6k=DeoM/dash-wv/jitp-linearwm/2104/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroSP2.mpd
-https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OtCtFixLTWLoygpJMJCRD9M=4gar/dash-wv/jitp-linearwm/2104/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OsHzQCsUqpYYBlIi2UZ5HLo=Advk/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #EXTINF:-1 tvg-id="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORT",Astro SuperSport 3 HD/(DU)
+http://linears-playback.astro.com.my/vsg/41E2-irKzDAKNBPOaiNVujfM_NXIU8V0_UogcCTRhP0cU=FXet/dash-wv/jitp-linearwm/2701/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroSP3.mpd
-https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTggw7P14wGQOGh0AtJYeknfM=ug43/dash-wv/jitp-linearwm/2701/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTguQBcaQr0NsY_5NJQMPDsQM=IPBh/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-id="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORT",Astro SuperSport 4 HD/(DU)
+http://linears-playback.astro.com.my/vsg/41-JG6-pveEpJ_myVS6pI24LPrCTlkmM-0j-5GCG36trk=F3ql/dash-wv/jitp-linearwm/2506/default_primary.mpd
 https://Astro.kpsboyserver.com/AstroSP4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
