@@ -53,7 +53,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="BAHASA MALAYSIA",Astro Ria HD/(DU)
 http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFdL4-AoAZejuCZf14sOKVLI=qgfe/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://Astro.kpsboyserver.com/AstroRia.mpd
+===https://Astro.kpsboyserver.com/AstroRia.mpd##
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
