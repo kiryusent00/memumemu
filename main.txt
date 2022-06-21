@@ -56,15 +56,13 @@ http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bkOA_afNkRbLW--S
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="105" ch-number="AstroPrima" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png" group-title="BAHASA MALAYSIA",Astro Prima HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="BAHASA MALAYSIA",Astro Prima HD/(DU)
+http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpRzLx0SwXizuK5zO8m7O69OM=6d99/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/Astro_oasis_flat_logo.png" group-title="BAHASA MALAYSIA",Astro Oasis HD 
-http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpRzLx0SwXizuK5zO8m7O69OM=6d99/dash-wv/jitp-linearwm/1000/default_primary.mpd
+#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="BAHASA MALAYSIA",Astro Oasis HD/(DU)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
@@ -85,8 +83,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="112" ch-number="AstroRania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_Rania.png" group-title="BAHASA MALAYSIA",Astro Rania HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="BAHASA MALAYSIA",Astro Rania HD/(DU)
+http://linears-playback.astro.com.my/vsgN/41T51invtf5F7_9aQaM5Z1qeWWXVEVLy0Gnh_k_6Wu2k4=QStk/dash-wv/jitp-linearwm/608/default _primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
