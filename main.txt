@@ -8,12 +8,12 @@ https://dl.dropboxusercontent.com/s/s8y5zyp0ihbtc2j/Avenged-Sevenfold-So-Far-Awa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA HD (VL)
-http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFQeGWEd_A7GzM0ZW3eNGeTA=FguE/dash-wv/jitp-linearwm/1004/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFfw4beTk1oPQEgP_Bum_wt0=Veds/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAY",Astro Prima HD (VL)
-http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR7Q3BnM92f8VkbJ30zCa6bs=4y9i/dash-wv/jitp-linearwm/1000/default_primary.mpd
+http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR82n4T7KAwVh6Tzc9GVAy_M=xzxF/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -24,12 +24,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="MALAY",Astro Warna HD (VL)
-http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_BYGRiyOOLVpczLP9NMiiw0=B6O8/dash-wv/jitp-linearwm/2402/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_Me7IzofTnZWzY30fQP5OJY=umiB/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="MALAY",ASTRO Citra HD (VL)
-http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_OMOeAnUP3po8R4SzziuvN8=ne8K/dash-wv/jitp-linearwm/2700/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_BvdrksW9YdtJwxo9QAOMpk=0fUg/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
@@ -108,12 +108,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="MALAY",
- HD (VL)
-http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_btcxcetmmesib8BTOzPRiC0=KO1b/dash-wv/jitp-linearwm/1004/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 #EXTINF:-1 tvg-id="111" group-title="SHOP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/118%281%29.png",GO Shop 111 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
@@ -121,7 +115,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="INDONESIA",ASTRO RANIA (VL)
-http://linears-playback.astro.com.my/vsgN/41T51invtf5F7_9aQaM5Z1qflPaklsovY_BmNH9CoK_aA=n3Iy/dash-wv/jitp-linearwm/608/default_primary.mpd
+http://linears-playback.astro.com.my/vsgN/41T51invtf5F7_9aQaM5Z1qVT-4IScCu43XbDujX4b1pI=SaXV/dash-wv/jitp-linearwm/608/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
@@ -1602,3 +1596,40 @@ https://www81.uptobox.com/dl/6gEF0AdLMTXAswlF2RfcMCepkMXKThKzpqXj5yPg8uF2RKpWYxb
 
 #EXTINF:-0 tvg-name="Sonic the Hedgehog 2 (2022)" tvg-logo="https://i0.wp.com/neplych.com/wp-content/uploads/2022/04/Sonic-the-Hedgehog-2-Movie-Poster.jpg" type="movie" group-title="ENGLISH MOVIES",Sonic the Hedgehog 2 (2022) 
 https://www71.uptobox.com/dl/ZaDx3kHNEnnXMoGq7ReDWF3GDGmK8OwfVtafhms0RgRO9GfD0HyDOigdsWR80cIEJklZsUmVBTu-6y4JbgEZchc5Coq4dicFpCYYQKzT5gD1qBod-5Cbs7Nv18CSOJIY1NkeN64Uyr_WQIu75UgEdg/Sonic.the.Hedgehog.2.2022.720p.WEB-DL.x265.10Bit-Pahe.in.mkv
+
+--Man vs. Bee--
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 01
+https://dl.dropboxusercontent.com/s/wfdvi6qjozadepn/Man.Vs.Bee.S01E01.Chapter.1.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 02
+https://dl.dropboxusercontent.com/s/rnqj4ap5tdaq1sp/Man.Vs.Bee.S01E02.Chapter.2.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 03
+https://dl.dropboxusercontent.com/s/rpcgqe5qs3a72sl/Man.Vs.Bee.S01E03.Chapter.3.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 04
+https://dl.dropboxusercontent.com/s/3u8eetioemjsbsr/Man.Vs.Bee.S01E04.Chapter.4.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 05
+https://dl.dropboxusercontent.com/s/w7u3bi08bvrfk7l/Man.Vs.Bee.S01E05.Chapter.5.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 06
+https://dl.dropboxusercontent.com/s/pn4qyl8330mdq5s/Man.Vs.Bee.S01E06.Chapter.6.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 07
+https://dl.dropboxusercontent.com/s/zlcvq883esza7dz/Man.Vs.Bee.S01E07.Chapter.7.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 08
+https://dl.dropboxusercontent.com/s/f9zbqzn7kqsysvo/Man.Vs.Bee.S01E08.Chapter.8.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 09
+https://dl.dropboxusercontent.com/s/rz2jl0nuyt7cb81/Man.Vs.Bee.S01E09.Chapter.9.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+
+
+
+
+
+
+
