@@ -13,7 +13,7 @@ http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFQeGWEd_A7GzM0ZW3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAY",Astro Prima HD (VL)
-http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpRw28ZZYyt83wY2cejMpo8-I=py96/dash-wv/jitp-linearwm/1000/default_primary.mpd
+http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR7Q3BnM92f8VkbJ30zCa6bs=4y9i/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
