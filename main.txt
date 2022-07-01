@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 
-#EXTINF:-1 id="111" tvg-name="TV3" tvg-logo="https://cdn.pixabay.com/photo/2016/06/15/15/02/info-1459077_640.png" group-title="INFO",Avenged Sevenfold - So Far Away
+9#EXTINF:-1 id="111" tvg-name="TV3" tvg-logo="https://cdn.pixabay.com/photo/2016/06/15/15/02/info-1459077_640.png" group-title="INFO",Avenged Sevenfold - So Far Away
 https://dl.dropboxusercontent.com/s/s8y5zyp0ihbtc2j/Avenged-Sevenfold-So-Far-Away.mp4?dl=0
 
 --UPDATED--26.06.2022@2.59PM--
@@ -10,53 +10,81 @@ https://dl.dropboxusercontent.com/s/s8y5zyp0ihbtc2j/Avenged-Sevenfold-So-Far-Awa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA HD (VL)
-http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFZGC32x8EdaZmD0kuJaaDCE=v1UZ/dash-wv/jitp-linearwm/1004/default_primary.mpd
+#http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFQj69IEzO8f5fbCXKgu1REk=_9gc/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://stream.zeehanzgadget.com/ria.mpd
+
+9#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA HD (B)(VL)
+http://iptv12k.com:35461/80301062102/732099/4354
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAY",Astro Prima HD (VL)
-http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR82n4T7KAwVh6Tzc9GVAy_M=xzxF/dash-wv/jitp-linearwm/1000/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+9#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAY",Astro Prima HD (B)(VL)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAY",Astro Oasis HD (VL)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+https://stream.zeehanzgadget.com/oasis.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAY",Astro Oasis HD
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+https://stream.zeehanzgadget.com/oasis.mpd
+
+9#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAY",Astro Oasis HD (B)(VL)
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142669.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="MALAY",Astro Warna HD (VL)
-http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_D8jnJGtu8lLyuqA5SonPkw=2S0r/dash-wv/jitp-linearwm/2402/default_primary.mpd
+#http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_OiEABycz6AokGPwUilNQTg=TGRI/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://stream.zeehanzgadget.com/warna.mpd
+
+9#EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="MALAY",Astro Warna HD (B)(VL)
+http://iptv12k.com:35461/80301062102/732099/733
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="MALAY",ASTRO Citra HD (VL)
-http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_IFkq9aLzXH687-zB2nrOvU=7I6R/dash-wv/jitp-linearwm/2700/default_primary.mpd
+#http://linears-playback.astro.com.my/vsg/41hCmLILDXhADg53X5jknS_NKCPWYbTJ8cMu1inHsxSac=hh6f/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://stream.zeehanzgadget.com/citra.mpd
+
+9#EXTINF:-1 tvg-id="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="MALAY",ASTRO Citra HD (B)(VL)
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+http://iptv12k.com:35461/8032022060101/452381/6608
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="INDONESIA",ASTRO RANIA (VL)
-http://linears-playback.astro.com.my/vsgN/41T51invtf5F7_9aQaM5Z1qVT-4IScCu43XbDujX4b1pI=SaXV/dash-wv/jitp-linearwm/608/default_primary.mpd
+http://linears-playback.astro.com.my/vsgN/41T51invtf5F7_9aQaM5Z1qe-gCpu2r9z2RMOcHiYihQg=yccj/dash-wv/jitp-linearwm/608/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_AEC.png" group-title="CHINESE",Astro AEC HD (VL)
-#http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2400/default_primary.mpd
-https://live.astradamy.com/astro/aec/index.mpd
+http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2400/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1 tvg-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="INDIA",Astro Vinmeen HD (VL)
-#http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2105/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41h0L8JtXs4kNOxdiCwfXhF4BJcCxHaQdU0iruA8HgotY=KMXm/dash-wv/jitp-linearwm/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-id="404" ch-number="404" group-title="MOVIES" tvg-logo="https://i2.wp.com/selebritionline.com/wp-content/uploads/2016/10/Boo-logo-BLACK-1.jpg",BOO HD (VL)
-http://linears-playback.astro.com.my/vsgN/41HAXeI9htfxQS-os22kobjuJyg556qRLshURiBRq-O9M=JcfG/dash-wv/jitp-linearwm/2407/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
 #EXTINF:-1 tvg-id="251" ch-number="BollyOneHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/ABO_BollyOne_HD.png" group-title="MOVIES",Astro Bollyone HD (VL)
-http://linears-playback.astro.com.my/vsgN/41IQ6b2u_QPsoQ_BJn46LlWmEOp-OQ7WuUIaJLAYKoSok=qOzO/dash-wv/jitp-linearwm/1007/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
@@ -99,11 +127,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3
+#EXTINF:-1 tvg-id="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV",TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV", TV3 (B)
 https://live.astradamy.com/tv3/index.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV", TV3 (C)
+https://bit.ly/3OIgOIv
 
 #EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MYTV",RTM TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -221,8 +252,8 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
-#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png" group-title="MOVIES",Astro BoxOffice Movies HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="MOVIES",ABO THANGATHIRAI HD (VL)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fed51001c357a9224f8221161313f010&key=7e0183501f83df2174844c03011fb491
@@ -1572,31 +1603,33 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 --MOVIES--
 
 #EXTINF:-0 tvg-name="Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://terrigen-cdn-dev.marvel.com/content/prod/1x/stellarvortex_genavailposter_v1_june22_lg.jpg" type="movie" group-title="ENGLISH MOVIES",Doctor Strange in the Multiverse of Madness (2022) 
-https://www97.uptobox.com/dl/mB18OhQenUqPll-MnNF8IPJOhi-w7LHuXcNgFtsBariBUbrXJR3KQQSAXtCUn0LVClnGAEF2gwZ-S45R5eAi8ydy3ipLwU7bSKeEMlxWILpENgKxWQzqVP_cOWlGwtCUa81s__yDgTn3d1qa5LWavw/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.WEB-DL.x265.10Bit.6CH-Pahe.in.mkv
+https://www97.uptobox.com/dl/fZuep3A3L1igr0kIXclBJPJOhi-w7LHuXcNgFtsBariBUbrXJR3KQQSAXtCUn0LVPwhoAK5JcxOsbgFYLBpQsIKKCX1wCW6ywclLmKiZe5JcETHSsyDMSAln_acsWK8FdZZfqebE6CAgCqDNoGrURxn3BcwosznDuntWUy1IA_0/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.WEB-DL.x265.10Bit.6CH-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name="Uncharted (2022)" tvg-logo="https://en-images.kinorium.com/movie/1080/491272.jpg?1583396801" type="movie" group-title="ENGLISH MOVIES",Uncharted (2022) 
-https://www69.uptobox.com/dl/4KCCeTyJ0iTH5XKTKlmQTxLjJ9oPHqNEf44nWm6-dFkvUi_cZX9pDKJ3paia-CVRDEwkpGlWLjVLlYsaIGgmYjrp5VVvHRxAVQ95WRFIJQIAbnPbjDiI6TolflK3_KPSr3Jfz4FB1Lvf_tlL84ixJA/Uncharted.2022.1080p.UHD.BluRay.x265.HDR.DV.DD%2B5.1-Pahe.in.mkv
+https://www69.uptobox.com/dl/r1vaW4QKeOoRkWrx233xyhLjJ9oPHqNEf44nWm6-dFkvUi_cZX9pDKJ3paia-CVRkTpvt3A0M438ehL2MMaP25ADwgRLz6HwB1u0A7-z3FYPhHivv0h-5h1B6DKxmfwlaAzLjdDsLQntQipPyerNReQOxqnvXWx_g0FOBlINeDU/Uncharted.2022.1080p.UHD.BluRay.x265.HDR.DV.DD%2B5.1-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name=The Contractor (2022)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/The_Contractor_(2022_film).jpg" type="movie" group-title="ENGLISH MOVIES",The Contractor (2022) 
-https://www72.uptobox.com/dl/HWb01A_SRAPKNK8l8TFe-0c8fxLKUDKFiyVrN4KVph2QICz-Y-61Fcz6e5FfhZeJzm0mQkSDXQIf-F8T7mMvf9Nmx8V9mS0WSTjTA6NFblQVKx8ubq39M6SpQIOG9r0xPGYxlQ2CuuC1fSomqdJPog/The.Contractor.2022.720p.BluRay.x265.10Bit-Pahe.in.mkv
+https://www72.uptobox.com/dl/idzJyy1e1m6Vb1peeu_TP0c8fxLKUDKFiyVrN4KVph2QICz-Y-61Fcz6e5FfhZeJvXg_wzH4S8ViYgIV9OVWvdK_sMLqK9-YSnzAobu5uVHfZlxOPc6Z2TucqAiHOeSopwrRRJyqhlAZ0WEakDR16ZUvdfeUwVzxJE5qJyXy6g8/The.Contractor.2022.720p.BluRay.x265.10Bit-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name=The Jungle Book (2016)" tvg-logo="https://1.bp.blogspot.com/-qHl6ObTm410/VwKFFXi0LfI/AAAAAAABKkU/A3nuWyluCSA5UNAFwNSpsEri0K8LsYYUw/s1600/jungle-book-2016-movie-poster-2.jpg" type="movie" group-title="ENGLISH MOVIES",The Jungle Book (2016) 
-https://www86.uptobox.com/dl/kprOd3QsviQh00oidX5DPgxIeyugDs_kd3Ah-rukbBf-5oz3rbOq-y0zdPLBFwhdihGlF4n6-_Y0xFxC_JxXvLjIKzh4TvfVZdxBKhJxSZ_bfW91cIQ0C0ewdcnhVrmwRBaJGYRsEvect4d6THX59w/The.Jungle.Book.2016.720p.UHD.BluRay.x264.6CH-Pahe.in.mkv
+https://www86.uptobox.com/dl/LCXsg3HZHVr8KIP5nD0giwxIeyugDs_kd3Ah-rukbBf-5oz3rbOq-y0zdPLBFwhdobH7bNiJZFJ1NA9fBii2rMP_I0TJ1IIHpl4v1FLlS_2zcVcvUM5BrAb1P9mAvZUAPbltXNkCTT3pe_jTmrwV8AYCDMzg_7AyzmvX2VZVr2g/The.Jungle.Book.2016.720p.UHD.BluRay.x264.6CH-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name="Ip Man The Awakening (2022)" tvg-logo="https://i0.wp.com/download.24baze.com/wp-content/uploads/2022/06/Ip-Man-The-Awakening-2022-Chinese.jpg" type="movie" group-title="ENGLISH MOVIES",Ip Man The Awakening (2022) 
-https://www87.uptobox.com/dl/FMUnxrB3IugAZZLiYvg-ZxE1JVWkq-6U-T4x2nVS_rzjUyxtZ4tqeKG8FfgPyOBFKY7jOdnVb_33j0AXg-K0S1HTT-1IPXJWPeff_9za1FmAtgEcfJ48nj2BD-hW5JDnJqykIY_YRcieHiINPXhm-w/Ip.Man.The.Awakening.2022.1080p.BluRay.x264.6CH-Pahe.in.mkv
+https://www55.uptobox.com/dl/pu-lEsrvfHnbC1gbZGDmy9MPHqcmEYfXGmTJSHBfclsvfEpaoMAElQgwU0Cml4A6RYqxMhWenHxPqpOvXOJz_CntyylAkxPc9giIGJj49GB7HCN1TRSTRHUHYfrKRUU8aMmn4eLziQaf0GmVnBSCTCUFXdLCv7FKedtWP71sM60/Ip.Man.The.Awakening.2022.1080p.BluRay.x264.6CH-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name="The Fable (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2EyN2I5MzItNjcyMC00MzFlLTgxOWMtOTExMzljYjFkZDZiXkEyXkFqcGdeQXVyNjE4OTY3NTg@._V1_UY1200_CR110,0,630,1200_AL_.jpg" type="movie" group-title="ENGLISH MOVIES",The Fable (2019) 
-https://www41.uptobox.com/dl/sfyDcjddwrHi8aNOx7mLdkLlqJ8yYF5iIFwhMTol-ZiRHMTeLzBCfi0wCOY_wOZuW78ypVxO7IXReSNtrqkJwpIFJ-GOed9y7ZJ2Il5GpqL07XpdfnBI2AAdxLzJgkXlAVGud7BgEUAdVv-Ob1_Log/The.Fable.2019.720p.BluRay.x264.950MB-Pahe.in.mkv
+https://www41.uptobox.com/dl/gqay656m4lC-utJ75I2d2kLlqJ8yYF5iIFwhMTol-ZiRHMTeLzBCfi0wCOY_wOZuNNEEfRYR6mzqgAdGWJQc72mT9ZPWhFZlbVdXMFJEKfVVZ8b4q2WKT_CUtJ6NkX4Mib0zqGMu14RnPjpoJEJinqLY1RiFGptoArL04osb9tg/The.Fable.2019.720p.BluRay.x264.950MB-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name="Spider-Man Into the Spider-Verse (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/7usAXeMgdShhJka7iUGsM6uKqKG.jpg" type="movie" group-title="ENGLISH MOVIES",Spider-Man Into the Spider-Verse (2018) 
-https://www54.uptobox.com/dl/9GYDsTPLxxF9Hb-0fgnsdpvKajilufPHRRjHXec7ChwMUXKzUj0qG5hjcQiNM2LU_OJUEEGWZHEdIU0kfp89HQCNMScwV9o5euHHtqnNjiU5JvK02YS3fmQXgu86LRf7mpNHAn_8r5lGJnCoIH7WaQ/Spider-Man.Into.the.Spider-Verse.2018.720p.UHD.BluRay.x264-Pahe.in.mkv
+https://www54.uptobox.com/dl/m6xtYtQ0gcKnpCF4YINgeZvKajilufPHRRjHXec7ChwMUXKzUj0qG5hjcQiNM2LUXlEbK3mBYihF4dFWY8NzjaNFrzViuyssB9-CwOL2QrjXuQJjlE8OHmK_soy47-Ijc-nuzygjxeFFUcvBpwg2ka2_hyATfbzmTuoMCFw-cc4/Spider-Man.Into.the.Spider-Verse.2018.720p.UHD.BluRay.x264-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name="Turning Red (2022)" tvg-logo="https://www.cinemaclock.com/images/posters/1000x1500/33/turning-red-2022-us-poster.jpg" type="movie" group-title="ENGLISH MOVIES",Turning Red (2022) 
-https://www81.uptobox.com/dl/6gEF0AdLMTXAswlF2RfcMCepkMXKThKzpqXj5yPg8uF2RKpWYxbSEhdkKnOiV2xEVuANrcU1nztJyI-86Vad376t9Td91s79FhPugIyMwcn077GG87bsa0mBJkOeJCJKXsJdld9IMVJwXSRRQaDwKQ/Turning.Red.2022.720p.BluRay.x264.950MB-Pahe.in.mkv
+https://www81.uptobox.com/dl/QcfKjvTak4_6-cfZfDyqriepkMXKThKzpqXj5yPg8uF2RKpWYxbSEhdkKnOiV2xEEflBrab_idgD-42FVZ4Uk1R422vEHWDxCEYrMRfSCU0BKdCO8XzXS-4q2gLZRdERXUEK7Y-MPrEcJ1Mxhh2hLUzm7kGwD8MkwWFJzR6YdK0/Turning.Red.2022.720p.BluRay.x264.950MB-Pahe.in.mkv
 
 #EXTINF:-0 tvg-name="Sonic the Hedgehog 2 (2022)" tvg-logo="https://i0.wp.com/neplych.com/wp-content/uploads/2022/04/Sonic-the-Hedgehog-2-Movie-Poster.jpg" type="movie" group-title="ENGLISH MOVIES",Sonic the Hedgehog 2 (2022) 
-https://www71.uptobox.com/dl/ZaDx3kHNEnnXMoGq7ReDWF3GDGmK8OwfVtafhms0RgRO9GfD0HyDOigdsWR80cIEJklZsUmVBTu-6y4JbgEZchc5Coq4dicFpCYYQKzT5gD1qBod-5Cbs7Nv18CSOJIY1NkeN64Uyr_WQIu75UgEdg/Sonic.the.Hedgehog.2.2022.720p.WEB-DL.x265.10Bit-Pahe.in.mkv
+https://www71.uptobox.com/dl/4_fiAPpNv_L3dPsHgAv4tV3GDGmK8OwfVtafhms0RgRO9GfD0HyDOigdsWR80cIEpSysrhw1knhoItPvi5kk7uHBUGc4G45owy0DVE_H2c_Ss_kc1LPyAtQ-rsZ_LWQQ15vDYDeVsnpUrn-P5-nXGtcdv4gzh1dgJ68ClcqL1c4/Sonic.the.Hedgehog.2.2022.720p.WEB-DL.x265.10Bit-Pahe.in.mkv
+
+
 
 --Man vs. Bee--
 
@@ -1627,6 +1660,25 @@ https://dl.dropboxusercontent.com/s/f9zbqzn7kqsysvo/Man.Vs.Bee.S01E08.Chapter.8.
 #EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_.jpg" type="series" group-title="Man vs. Bee",Chapter 09
 https://dl.dropboxusercontent.com/s/rz2jl0nuyt7cb81/Man.Vs.Bee.S01E09.Chapter.9.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
 
+---Obi-Wan Kenobi---
+
+C#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" type="series" group-title="Obi-Wan Kenobi",Part 01
+Chttps://www40.uptobox.com/dl/uYTar_-OrVCL1ccEHFFXKPakNyBqU7pxrXQNgwH1kGL8Na2PPCAiFYGYoN-7C6Oj17aXKmR9xzEqFi_nFikKlvhxacVQyvmDl4yTjRuUVz9bsbL-H9UxdF1MBYEJOMNPodJIch0GsXy8yyrHAsa51qmQrdLUrc-2utclwSKPFo4/Obi-Wan.Kenobi.S01E01.Part.I.1080p.WEB-DL.x265.10Bit.6CH-Pahe.in.mkv
+
+C#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" type="series" group-title="Obi-Wan Kenobi",Part 02
+Chttps://www44.uptobox.com/dl/PoZBehZDabWX0mNWCFb51kBK-j0sWt3BwUWQUQzllffWXe5xLG95O9CG2mzUelAgnaX-PaJjILGZZZJI_SFeUADuk6gCppiUTB5I0UUj-J85q4vAeXOXfTmHY6qs08X765WKvM_85NeRkqQiq6Ezizm0Z6fRgWck1adNitIJYmk/Obi-Wan.Kenobi.S01E02.Part.II.1080p.WEB-DL.x265.10Bit.6CH-Pahe.in.mkv.mkv
+
+C#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" type="series" group-title="Obi-Wan Kenobi",Part 03
+Chttps://dl.dropboxusercontent.com/s/rpcgqe5qs3a72sl/Man.Vs.Bee.S01E03.Chapter.3.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+C#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" type="series" group-title="Obi-Wan Kenobi",Part 04
+Chttps://www43.uptobox.com/dl/buVo6hkFGYArCjXCYPhNBI7u_kzFOWB3mhnO3kMl7ELgomslGPu94V8NKZTaA9ecJ-gkZYWJY0jvG1cXKbeaFC20D55b0GnI3RCUmlJVUF06B3uqvJ8UDStW7hNmuhzmxBTQfM-ng9uPx82xwKn_P98s6asz_ixYtoFEPiAItXg/Obi-Wan.Kenobi.S01E04.Part.IV.1080p.WEB-DL.x265.10Bit.DD%2B5.1-Pahe.in.mkv
+
+C#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" type="series" group-title="Obi-Wan Kenobi",Part 05
+https://dl.dropboxusercontent.com/s/w7u3bi08bvrfk7l/Man.Vs.Bee.S01E05.Chapter.5.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
+
+C#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" type="series" group-title="Obi-Wan Kenobi",Part 06
+Chttps://dl.dropboxusercontent.com/s/pn4qyl8330mdq5s/Man.Vs.Bee.S01E06.Chapter.6.720p.NF.WEB-DL.x264-Pahe.in.mkv?dl=0
 
 
 
